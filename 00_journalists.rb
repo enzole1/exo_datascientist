@@ -77,13 +77,9 @@ tableau_pseudo = 0
 
 # Question 7
 
-puts "Trie la liste de handle par ordre alphabétique."
+  #J'y arrive plus frereeeeeeeeeeeeeee mdr !!!!!!!!! 
+  
+     
 
-        tableau_pseudo = 0
 
-                journalistes.each do |handle|
-                    if handle.sort (/([A - Z])/)
-                    end
-                end 
-
-        puts ordre alphabétique
+        
